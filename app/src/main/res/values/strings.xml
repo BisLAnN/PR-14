@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PR-14</string>
+    <string name="email">Введите email</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="activity2">Перейти на второе активити</string>
+    <string name="activity1">Перейти на первое активити</string>
+    <string name="infoOfDate">Контактные данные:</string>
+    <string name="change">Изменить:</string>
+</resources>
